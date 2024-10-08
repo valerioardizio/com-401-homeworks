@@ -1,6 +1,6 @@
 # COM-401 Cryptography & Security -- Homeworks
 
-This is the repository containing the solutions to the homework assignments of the course "COM-401 Cryptography & Security" at EPFL, given by Professor Serge Vaudenay in the Autumn of 2023.
+This is the repository containing the solutions to the homework assignments of the course "COM-401 Cryptography & Security" at EPFL, taught by Professor Serge Vaudenay in the Autumn of 2023.
 
 Contributors to this repository:
 - Valerio Ardizio
